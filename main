@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section class="about">
+        <div class="about-content">
+            <h2>About Me</h2>
+            <div class="about-text">
+                <p>Hello! I'm [Your Name], a passionate web developer with a keen eye for creating beautiful and functional websites. With [X] years of experience in web development, I specialize in building responsive and user-friendly applications.</p>
+                
+                <p>My expertise includes:</p>
+                <ul>
+                    <li>Front-end Development</li>
+                    <li>Responsive Web Design</li>
+                    <li>UI/UX Design</li>
+                    <li>Web Performance Optimization</li>
+                </ul>
+
+                <p>When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through technical writing.</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
